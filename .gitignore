@@ -8,10 +8,8 @@ __pycache__/
 data/*.csv
 data/*.json
 data/*.pkl
-data/
-zipped/
-
 *.csv
+
 # Distribution / packaging
 .Python
 build/
@@ -143,3 +141,4 @@ dmypy.json
 
 # Data 
 data/
+zipped/
